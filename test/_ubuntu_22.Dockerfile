@@ -1,4 +1,4 @@
-FROM buildpack-deps:jammy-scm
+FROM buildpack-deps:kinetic-scm
 
 ENV GITDIR /etc/.pihole
 ENV SCRIPTDIR /opt/pihole
